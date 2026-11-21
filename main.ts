@@ -19,6 +19,9 @@ import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { buildDossier } from './vendor/makefun-frontend.ts';
 
+// Entry: Leonida Night Ledger v7 — the v6 shape plus provenance line, Missables chapter-window grid, 40 disputes.
+const ENTRY_TITLE = 'Leonida Night Ledger v7';
+void ENTRY_TITLE;
 const here = fileURLToPath(new URL('.', import.meta.url));
 const out = process.env.MAKEFUN_OUTPUT_DIR ?? '/output';
 

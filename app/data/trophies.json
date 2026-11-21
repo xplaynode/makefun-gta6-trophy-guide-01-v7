@@ -2,391 +2,62 @@
  "game": "Grand Theft Auto VI",
  "platform": "PlayStation 5",
  "list": "the official 55 trophies, 2026-11-18",
+ "entry": "Leonida Night Ledger v7",
  "trophies": [
-  {
-   "id": 1,
-   "name": "Vice Got a Price!",
-   "description": "Congratulations! You're a Leonida Legend.",
-   "grade": "platinum",
-   "guide": "Earn the other 54 trophies."
-  },
-  {
-   "id": 2,
-   "name": "Just Like Paradise",
-   "description": "Complete Gone Fishing.",
-   "grade": "bronze",
-   "guide": "Finish the opening mission, Gone Fishing."
-  },
-  {
-   "id": 3,
-   "name": "Paradise Lost",
-   "description": "Complete Chapter 1.",
-   "grade": "bronze",
-   "guide": "Finish Chapter 1."
-  },
-  {
-   "id": 4,
-   "name": "T**s Ass Drug Money",
-   "description": "Complete Chapter 2.",
-   "grade": "bronze",
-   "guide": "Finish Chapter 2."
-  },
-  {
-   "id": 5,
-   "name": "Vice City, Baby!",
-   "description": "Complete Chapter 3.",
-   "grade": "bronze",
-   "guide": "Finish Chapter 3."
-  },
-  {
-   "id": 6,
-   "name": "Top Of The World, Ma",
-   "description": "Complete Chapter 4.",
-   "grade": "bronze",
-   "guide": "Finish Chapter 4."
-  },
-  {
-   "id": 7,
-   "name": "You Gotta Know When to Get Off",
-   "description": "Complete the final mission.",
-   "grade": "gold",
-   "guide": "Finish the final mission (gold)."
-  },
-  {
-   "id": 8,
-   "name": "Trust",
-   "description": "Complete Breakfast Run.",
-   "grade": "bronze",
-   "guide": "Finish the mission Breakfast Run."
-  },
-  {
-   "id": 9,
-   "name": "Break the Bank",
-   "description": "Complete The Cartel Heist.",
-   "grade": "bronze",
-   "guide": "Finish the mission The Cartel Heist."
-  },
-  {
-   "id": 10,
-   "name": "Family Matters",
-   "description": "Complete Child's Play.",
-   "grade": "bronze",
-   "guide": "Finish the mission Child's Play."
-  },
-  {
-   "id": 11,
-   "name": "DWNFALL",
-   "description": "Complete Headliners.",
-   "grade": "bronze",
-   "guide": "Finish the mission Headliners."
-  },
-  {
-   "id": 12,
-   "name": "Hi-Jacked",
-   "description": "Complete VCIA Takedown.",
-   "grade": "bronze",
-   "guide": "Finish the mission VCIA Takedown."
-  },
-  {
-   "id": 13,
-   "name": "Snow Storm",
-   "description": "Complete Operation Savage Glory.",
-   "grade": "bronze",
-   "guide": "Finish the mission Operation Savage Glory."
-  },
-  {
-   "id": 14,
-   "name": "A Long Road",
-   "description": "Attain 100% Completion.",
-   "grade": "gold",
-   "guide": "Reach 100% completion (gold)."
-  },
-  {
-   "id": 15,
-   "name": "Cunning Stunts",
-   "description": "Complete 250 Stunts.",
-   "grade": "silver",
-   "guide": "Pull off 250 stunts (silver)."
-  },
-  {
-   "id": 16,
-   "name": "Master of None",
-   "description": "Try each type of activity once.",
-   "grade": "bronze",
-   "guide": "Try all 9 activity types once."
-  },
-  {
-   "id": 17,
-   "name": "The Shootist",
-   "description": "Earn a gold medal in all Shooting Range challenges.",
-   "grade": "silver",
-   "guide": "Gold all 42 Shooting Range challenges (silver)."
-  },
-  {
-   "id": 18,
-   "name": "Top Fun",
-   "description": "Win a Top Fun Drone Race at every location.",
-   "grade": "bronze",
-   "guide": "Win a Top Fun drone race at all 14 locations."
-  },
-  {
-   "id": 19,
-   "name": "Earn Cash, Not Kudos",
-   "description": "Win 20 different races.",
-   "grade": "bronze",
-   "guide": "Win 20 different races."
-  },
-  {
-   "id": 20,
-   "name": "Baited My Tackle",
-   "description": "Beat Cal in a fishing challenge.",
-   "grade": "bronze",
-   "guide": "Beat Cal in a fishing challenge."
-  },
-  {
-   "id": 21,
-   "name": "Stick Fiddler",
-   "description": "Complete an arcade game.",
-   "grade": "bronze",
-   "guide": "Finish one arcade game."
-  },
-  {
-   "id": 22,
-   "name": "Road to Rehabilitation",
-   "description": "Complete the final mission for Andy.",
-   "grade": "bronze",
-   "guide": "Finish Andy's last mission."
-  },
-  {
-   "id": 23,
-   "name": "This Was No Boat Accident",
-   "description": "Complete the final mission for Kenton.",
-   "grade": "bronze",
-   "guide": "Finish Kenton's last mission."
-  },
-  {
-   "id": 24,
-   "name": "The Lone Rider",
-   "description": "Complete the final mission for Billy.",
-   "grade": "bronze",
-   "guide": "Finish Billy's last mission."
-  },
-  {
-   "id": 25,
-   "name": "Strangers & Freaks",
-   "description": "Complete 8 mission strands for strangers across the state of Leonida.",
-   "grade": "silver",
-   "guide": "Finish 8 stranger strands (silver)."
-  },
-  {
-   "id": 26,
-   "name": "Supply & Demand",
-   "description": "Complete the final mission for Randy.",
-   "grade": "bronze",
-   "guide": "Finish Randy's last mission."
-  },
-  {
-   "id": 27,
-   "name": "Spin On This!",
-   "description": "Complete the final mission for Tyrone.",
-   "grade": "bronze",
-   "guide": "Finish Tyrone's last mission."
-  },
-  {
-   "id": 28,
-   "name": "Positive Mental Attitude",
-   "description": "Meditate at every spot across Leonida.",
-   "grade": "bronze",
-   "guide": "Meditate at all 18 spots."
-  },
-  {
-   "id": 29,
-   "name": "Fair Game",
-   "description": "Hunt a unique animal for Bret.",
-   "grade": "bronze",
-   "guide": "Hunt the unique animal for Bret."
-  },
-  {
-   "id": 30,
-   "name": "Don't Touch My Deck",
-   "description": "Complete 3 Collectible Card sets.",
-   "grade": "silver",
-   "guide": "Complete 3 collectible card sets (silver)."
-  },
-  {
-   "id": 31,
-   "name": "You WAiNKer!",
-   "description": "WAiNK It at 100 locations.",
-   "grade": "silver",
-   "guide": "WAiNK It at 100 locations (silver)."
-  },
-  {
-   "id": 32,
-   "name": "One Last Thing",
-   "description": "Complete 50 Challenges.",
-   "grade": "bronze",
-   "guide": "Finish 50 challenges."
-  },
-  {
-   "id": 33,
-   "name": "Hot Together",
-   "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
-   "grade": "bronze",
-   "guide": "Lose a 4-star wanted level with your partner."
-  },
-  {
-   "id": 34,
-   "name": "Retail Therapy",
-   "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
-   "grade": "bronze",
-   "guide": "Rob 3 shops in a row with your partner, keeping your wanted level."
-  },
-  {
-   "id": 35,
-   "name": "Whip It Good",
-   "description": "Discover 100 vehicles.",
-   "grade": "bronze",
-   "guide": "Discover 100 vehicles."
-  },
-  {
-   "id": 36,
-   "name": "Gunslinger",
-   "description": "Take down 5 enemies in a single use of Combat Focus.",
-   "grade": "bronze",
-   "guide": "Down 5 enemies in one Combat Focus."
-  },
-  {
-   "id": 37,
-   "name": "Catch Me If You Can",
-   "description": "Make an unscheduled departure at VCIA.",
-   "grade": "bronze",
-   "guide": "Leave VCIA in an unscheduled way."
-  },
-  {
-   "id": 38,
-   "name": "Challenging Tank",
-   "description": "Kinda hot in these Rhinos.",
-   "grade": "bronze",
-   "guide": "Deal with Rhinos (tanks)."
-  },
-  {
-   "id": 39,
-   "name": "Sneakthief",
-   "description": "Rob a jewelry store without being detected.",
-   "grade": "bronze",
-   "guide": "Rob a jewelry store without being seen."
-  },
-  {
-   "id": 40,
-   "name": "Maximum Withdrawal",
-   "description": "Rob 5 Bank Vaults and escape.",
-   "grade": "silver",
-   "guide": "Rob 5 bank vaults and escape (silver)."
-  },
-  {
-   "id": 41,
-   "name": "A Classic Blitz Play",
-   "description": "Rob an Armored Truck and escape.",
-   "grade": "bronze",
-   "guide": "Rob an armored truck and escape."
-  },
-  {
-   "id": 42,
-   "name": "The Goodtime State",
-   "description": "Explore all of Leonida.",
-   "grade": "bronze",
-   "guide": "Explore all 52 areas of Leonida."
-  },
-  {
-   "id": 43,
-   "name": "Pest Control",
-   "description": "Rob an Illegal Operation belonging to each gang.",
-   "grade": "bronze",
-   "guide": "Rob one illegal operation of each of the 9 gangs."
-  },
-  {
-   "id": 44,
-   "name": "In The Beginning…",
-   "description": "Enjoy a cocktail with a view on Ocean Beach.",
-   "grade": "bronze",
-   "guide": "Have a cocktail with a view on Ocean Beach."
-  },
-  {
-   "id": 45,
-   "name": "Capital Offense",
-   "description": "Smash your way out of a vehicle showroom in classic style.",
-   "grade": "bronze",
-   "guide": "Smash out of a vehicle showroom in style."
-  },
-  {
-   "id": 46,
-   "name": "Let’s Go Bowling",
-   "description": "Follow-through at the Kolt & Associates' bowling alley.",
-   "grade": "bronze",
-   "guide": "Play bowling at the Kolt & Associates alley."
-  },
-  {
-   "id": 47,
-   "name": "Personal Best",
-   "description": "A partnership with mass appeal.",
-   "grade": "bronze",
-   "guide": "A partnership moment with mass appeal."
-  },
-  {
-   "id": 48,
-   "name": "Actions Speak Louder",
-   "description": "Choices made (for better or worse).",
-   "grade": "bronze",
-   "guide": "Make choices (PSN tracks a count to 500)."
-  },
-  {
-   "id": 49,
-   "name": "Bad Luck, I Guess",
-   "description": "Second time's the charm.",
-   "grade": "bronze",
-   "guide": "Succeed on a second try."
-  },
-  {
-   "id": 50,
-   "name": "The Truth Is Out There",
-   "description": "What the hell just happened?",
-   "grade": "bronze",
-   "guide": "Witness something strange."
-  },
-  {
-   "id": 51,
-   "name": "Ten Pin",
-   "description": "Bowl 'em over with a melee drive-by.",
-   "grade": "bronze",
-   "guide": "Knock someone down with a melee drive-by."
-  },
-  {
-   "id": 52,
-   "name": "Dime on the Dollar",
-   "description": "Earn $250,000 laundering Marked Bills through your contacts.",
-   "grade": "bronze",
-   "guide": "Launder $250,000 of marked bills."
-  },
-  {
-   "id": 53,
-   "name": "Treat Yo Self",
-   "description": "Spend $100,000 across all shops.",
-   "grade": "bronze",
-   "guide": "Spend $100,000 in shops."
-  },
-  {
-   "id": 54,
-   "name": "Little Boxes",
-   "description": "Purchase all garage properties.",
-   "grade": "bronze",
-   "guide": "Buy all 8 garage properties."
-  },
-  {
-   "id": 55,
-   "name": "On the Spot",
-   "description": "Register 10 vehicles to the Scooter Bros app.",
-   "grade": "bronze",
-   "guide": "Register 10 vehicles in the Scooter Bros app."
-  }
+  {"id":1,"name":"Vice Got a Price!","description":"Congratulations! You're a Leonida Legend.","grade":"platinum","hidden":false,"kind":"story","missable":false,"minutes":0,"conf":"A","guide":"The platinum lands on its own the moment the other 54 trophies are earned; nothing extra is asked of you beyond finishing the ledger below.","steps":[{"t":"Work the six-stage roadmap in order so no counted trophy is left for a second run.","s":[1,2]},{"t":"Keep one manual save at every chapter boundary as insurance.","s":[1]},{"t":"Do the Chapter 1 balcony meditation before Chapter 1 ends.","s":[1,13]},{"t":"Track every counted trophy with the YOUR COUNT counter in this app.","s":[2,4]},{"t":"Leave cheats off for the whole run; they disable trophies and saving.","s":[1,12]},{"t":"When the 54th other trophy pops, this platinum follows automatically.","s":[1,9]},{"t":"Check the audit strip: 55 official trophies and 1,350 PSN points in total.","s":[9,10]}]},
+  {"id":2,"name":"Just Like Paradise","description":"Complete Gone Fishing.","grade":"bronze","hidden":true,"kind":"story","missable":false,"minutes":25,"conf":"A","guide":"Finish Gone Fishing, the opening mission; it teaches movement, driving and the first Leonida Keys beats and cannot be skipped.","steps":[{"t":"Start a new game and follow the opening prompts through the first drive.","s":[1]},{"t":"Stay with the mission markers; no optional content is required here.","s":[1,2]},{"t":"Complete the fishing sequence exactly as the prompts direct.","s":[2]},{"t":"Let the closing cutscene play out to register the completion.","s":[1]},{"t":"Confirm the bronze pops before moving into free roam.","s":[9]},{"t":"Make your first manual save right after the mission ends.","s":[1]},{"t":"Head for Jason's house next; Chapter 1 content opens from there.","s":[1,4]}]},
+  {"id":3,"name":"Paradise Lost","description":"Complete Chapter 1.","grade":"bronze","hidden":true,"kind":"story","missable":false,"minutes":600,"conf":"A","guide":"Finish every Chapter 1 story mission in order; before the chapter closes, clear the balcony meditation and Shirley's errands at Jason's house.","steps":[{"t":"Follow the chapter's mission markers from Jason's house outward.","s":[1]},{"t":"After Down to Earth, meditate on the balcony at Jason's house.","s":[1,4]},{"t":"Run Shirley's two errands while they are still offered.","s":[13]},{"t":"Pick up the house magazines before the chapter ends.","s":[13]},{"t":"Meet Kenton and start his diving line when it appears.","s":[1]},{"t":"Begin scanning vehicles whenever a new model passes you.","s":[2]},{"t":"Finish the final Chapter 1 mission to pop the bronze.","s":[1,9]}]},
+  {"id":4,"name":"T**s Ass Drug Money","description":"Complete Chapter 2.","grade":"bronze","hidden":true,"kind":"story","missable":false,"minutes":700,"conf":"A","guide":"Finish Chapter 2; Coffee Break unlocks duo play here, which the partner trophies and the last meditation spot depend on later.","steps":[{"t":"Play the chapter missions in the order the map offers them.","s":[1]},{"t":"Complete Coffee Break to unlock switching between the pair.","s":[1,2]},{"t":"Start the jewelry jobs and the Key Cloner line as they appear.","s":[4]},{"t":"Register your first vehicles in the Scooter Bros app.","s":[2]},{"t":"Open the character questlines that arrive this chapter.","s":[1]},{"t":"Keep chapter-boundary manual saves before big set pieces.","s":[1]},{"t":"Clear the last Chapter 2 mission to earn the bronze.","s":[9]}]},
+  {"id":5,"name":"Vice City, Baby!","description":"Complete Chapter 3.","grade":"bronze","hidden":true,"kind":"story","missable":false,"minutes":700,"conf":"A","guide":"Finish Chapter 3 as Vice City fully opens; most systems, shops and side lines are live by the end of this chapter.","steps":[{"t":"Work the Chapter 3 mission chain without leaving set pieces early.","s":[1]},{"t":"Spend shop money as you go toward the $100,000 spending total.","s":[2]},{"t":"Keep discovering vehicles; the 100-vehicle counter runs all game.","s":[1,11]},{"t":"Push stranger strands forward whenever their markers appear.","s":[4]},{"t":"Bank laundered marked bills through contacts when offered.","s":[6]},{"t":"Save manually at the chapter's final mission marker.","s":[1]},{"t":"Complete the closing mission to pop the bronze.","s":[9]}]},
+  {"id":6,"name":"Top Of The World, Ma","description":"Complete Chapter 4.","grade":"bronze","hidden":true,"kind":"story","missable":false,"minutes":700,"conf":"A","guide":"Finish Chapter 4, the climb into the endgame; bank vaults and the heaviest set pieces unlock across this chapter.","steps":[{"t":"Follow the Chapter 4 chain in order from the first marker.","s":[1]},{"t":"Use the cafe mission line to unlock bank vault access.","s":[1,2]},{"t":"Rob your first bank vault cleanly once vaults are open.","s":[4]},{"t":"Keep counted collectibles moving between story missions.","s":[2]},{"t":"Avoid the Irredeemable profile; it slows every later grind.","s":[1,7]},{"t":"Save before the chapter finale in case a set piece fails.","s":[1]},{"t":"Finish the final Chapter 4 mission for the bronze.","s":[9]}]},
+  {"id":7,"name":"You Gotta Know When to Get Off","description":"Complete the final mission.","grade":"gold","hidden":true,"kind":"story","missable":false,"minutes":90,"conf":"A","guide":"Complete the final mission for the story gold; free roam continues afterwards and every trophy quest giver returns, so nothing else locks here.","steps":[{"t":"Enter the final mission with full health, armour and ammo.","s":[1]},{"t":"Keep a manual save from just before the mission marker.","s":[1]},{"t":"Play the finale through without skipping its closing scenes.","s":[1,2]},{"t":"Let the credits finish; the gold registers at completion.","s":[9]},{"t":"Confirm free roam resumes after the credits roll.","s":[1,3]},{"t":"Return to any quest giver left open; they are all back.","s":[1]},{"t":"Open the 100% checklist in Progress, Stats, to start Stage 4.","s":[2,6]}]},
+  {"id":8,"name":"Trust","description":"Complete Breakfast Run.","grade":"bronze","hidden":true,"kind":"story","missable":false,"minutes":40,"conf":"A","guide":"Finish the named mission Breakfast Run when its marker appears in the story flow; it is a straight story beat with no side conditions.","steps":[{"t":"Accept Breakfast Run when the marker appears on the map.","s":[1]},{"t":"Follow the route prompts and stay in the mission vehicle.","s":[2]},{"t":"Complete the delivery leg without abandoning the objective.","s":[1]},{"t":"Ride out the closing scene until control returns to you.","s":[1]},{"t":"Check the bronze has registered in the checklist.","s":[9]},{"t":"Save manually once the mission is marked complete.","s":[1]},{"t":"Return to the main chapter chain from the same area.","s":[4]}]},
+  {"id":9,"name":"Break the Bank","description":"Complete The Cartel Heist.","grade":"bronze","hidden":true,"kind":"story","missable":false,"minutes":60,"conf":"A","guide":"Finish The Cartel Heist, the chapter's big set piece; approach prep is fixed by the story, so just play the plan through.","steps":[{"t":"Start The Cartel Heist from its story marker when offered.","s":[1]},{"t":"Complete each prep beat the mission assigns to the pair.","s":[1,2]},{"t":"Stick to the heist plan during the entry sequence.","s":[4]},{"t":"Cover your partner through the vault and escape legs.","s":[1]},{"t":"Lose the heat fully before the mission will close out.","s":[2]},{"t":"Let the payout scene finish to register completion.","s":[9]},{"t":"Bank the proceeds; they feed the spending and laundering totals.","s":[6]}]},
+  {"id":10,"name":"Family Matters","description":"Complete Child's Play.","grade":"bronze","hidden":true,"kind":"story","missable":false,"minutes":45,"conf":"A","guide":"Finish the named mission Child's Play in the story flow; a self-contained beat with no collectible or count attached.","steps":[{"t":"Take Child's Play when its marker joins the chapter chain.","s":[1]},{"t":"Follow the escort prompts and keep the objective in sight.","s":[2]},{"t":"Clear the confrontation the mission stages for you.","s":[1]},{"t":"Finish the drive home leg without leaving the vehicle behind.","s":[4]},{"t":"Watch the closing scene through to control returning.","s":[1]},{"t":"Verify the bronze in the trophy checklist afterwards.","s":[9]},{"t":"Save at the nearest safehouse before continuing the chain.","s":[1]}]},
+  {"id":11,"name":"DWNFALL","description":"Complete Headliners.","grade":"bronze","hidden":true,"kind":"story","missable":false,"minutes":50,"conf":"B","guide":"Finish Headliners when it appears; the mission name is stylised DWNFALL on the trophy, Headliners in the mission log.","steps":[{"t":"Accept Headliners from its story marker in the chain.","s":[1]},{"t":"Work the venue sequence in the order the prompts give.","s":[2]},{"t":"Protect your partner during the headline set piece.","s":[1]},{"t":"Escape the area and drop the wanted level fully.","s":[4]},{"t":"Return to the marker to close the mission out.","s":[1]},{"t":"Confirm DWNFALL shows earned in the checklist.","s":[9,10]},{"t":"Make a fresh manual save before the next chapter beat.","s":[1]}]},
+  {"id":12,"name":"Hi-Jacked","description":"Complete VCIA Takedown.","grade":"bronze","hidden":true,"kind":"story","missable":false,"minutes":55,"conf":"B","guide":"Finish VCIA Takedown at the airport authority; this mission also sets up the unscheduled-departure trophy at the same location.","steps":[{"t":"Start VCIA Takedown when the story sends you to VCIA.","s":[1]},{"t":"Follow the takedown plan through the terminal sequence.","s":[1,2]},{"t":"Keep the objective vehicle intact during the chase leg.","s":[4]},{"t":"Clear the runway confrontation the mission stages.","s":[1]},{"t":"Leave the airport area and lose the heat to close it.","s":[2]},{"t":"Check Hi-Jacked has popped in the checklist.","s":[9]},{"t":"Note VCIA on your map; you return here for a one-off trophy.","s":[1]}]},
+  {"id":13,"name":"Snow Storm","description":"Complete Operation Savage Glory.","grade":"bronze","hidden":true,"kind":"story","missable":false,"minutes":65,"conf":"B","guide":"Finish Operation Savage Glory, a long set piece; stock up before starting because the mission locks your loadout once under way.","steps":[{"t":"Buy armour and snacks before taking the mission marker.","s":[1]},{"t":"Start Operation Savage Glory and follow the assault plan.","s":[1,2]},{"t":"Use Combat Focus for clustered enemies inside the compound.","s":[4]},{"t":"Hold the extraction point until the pickup arrives.","s":[1]},{"t":"Escape and fully lose the wanted level to finish.","s":[2]},{"t":"Let the debrief scene end so completion registers.","s":[9]},{"t":"Restock and save; the chapter chain continues from here.","s":[1]}]},
+  {"id":14,"name":"A Long Road","description":"Attain 100% Completion.","grade":"gold","hidden":false,"kind":"activities","missable":false,"minutes":6000,"conf":"A","guide":"Reach 100% on the in-game checklist in Progress, Stats: story, all robberies, range golds, races, discoveries and the counted collections, at the checklist's own thresholds.","steps":[{"t":"Open Progress, Stats, 100% Completion and work from that list only.","s":[1,2]},{"t":"Finish the story first; the checklist appears in full after it.","s":[1]},{"t":"Clear every robbery type the checklist names, gang operations included.","s":[6]},{"t":"Gold all 42 Shooting Range challenges for the range line.","s":[1,11]},{"t":"Log the underwater discoveries; the checklist counts 33 of them.","s":[2,6]},{"t":"Work challenges to the checklist threshold, not the trophy's 50.","s":[4]},{"t":"When the readout hits 100%, the gold pops on its own.","s":[1,9]}]},
+  {"id":15,"name":"Cunning Stunts","description":"Complete 250 Stunts.","grade":"silver","hidden":false,"kind":"activities","missable":false,"count":250,"minutes":900,"conf":"A","guide":"Land 250 stunts in any vehicles anywhere in Leonida; use the YOUR COUNT counter and farm stunt jumps in batches between missions. The 100% checklist separately asks for 300.","steps":[{"t":"Take any ramp or jump at speed and land cleanly on wheels.","s":[1]},{"t":"Watch the stunt banner; only landed stunts advance the count.","s":[2]},{"t":"Chain jumps along the Keys causeways for fast batches.","s":[4]},{"t":"Switch vehicle classes; bikes forgive sloppy landings best.","s":[1]},{"t":"Log progress in the YOUR COUNT counter after each session.","s":[2]},{"t":"Keep going past 250 only if you want the checklist's 300.","s":[6]},{"t":"At 250 landed stunts the silver registers automatically.","s":[9]}]},
+  {"id":16,"name":"Master of None","description":"Try each type of activity once.","grade":"bronze","hidden":false,"kind":"activities","missable":false,"count":9,"minutes":180,"conf":"A","guide":"Try all 9 activity types once: races, ranges, fishing, arcade, drone races, meditation, hunting, bowling and stunt work each count a type the first time you start one.","steps":[{"t":"Start one street race from any race marker on the map.","s":[1,11]},{"t":"Enter one Shooting Range challenge, win or lose.","s":[1]},{"t":"Cast once in any fishing spot to log the fishing type.","s":[2]},{"t":"Play one arcade cabinet and one drone race start.","s":[4]},{"t":"Meditate once, hunt once and bowl one frame.","s":[1]},{"t":"Pull one stunt jump to log the final activity type.","s":[2]},{"t":"The ninth distinct type tried pops the bronze.","s":[9]}]},
+  {"id":17,"name":"The Shootist","description":"Earn a gold medal in all Shooting Range challenges.","grade":"silver","hidden":false,"kind":"activities","missable":false,"count":42,"minutes":1200,"conf":"A","guide":"Gold all 42 Shooting Range challenges; learn each range's target pattern at bronze pace first, then chase the gold score with the range's own weapons.","steps":[{"t":"Clear each challenge once to learn its target order.","s":[1]},{"t":"Replay immediately while the pattern is fresh in memory.","s":[1,11]},{"t":"Prioritise accuracy chains over raw speed for score.","s":[4]},{"t":"Use the counter here: 42 golds, no partial credit carries.","s":[2]},{"t":"Rest between ranges; fatigue wrecks late-session aim.","s":[1]},{"t":"Gold the indoor ranges last if outdoor ones come easier.","s":[11]},{"t":"The 42nd gold medal pops the silver at the results screen.","s":[9]}]},
+  {"id":18,"name":"Top Fun","description":"Win a Top Fun Drone Race at every location.","grade":"bronze","hidden":false,"kind":"activities","missable":false,"count":14,"minutes":420,"conf":"A","guide":"Win a Top Fun drone race at all 14 locations; a win at each distinct course is what counts, not total race wins.","steps":[{"t":"Find a Top Fun start point and enter with the stock drone.","s":[1]},{"t":"Fly the gate order cleanly once before racing for the win.","s":[2]},{"t":"Race again immediately; rivals keep the same lines.","s":[4]},{"t":"Mark each won location in the YOUR COUNT counter: 14 total.","s":[1,11]},{"t":"Cut corners inside gates; only the gate pass registers.","s":[1]},{"t":"Save the beach courses for last if wind gives you trouble.","s":[2]},{"t":"Winning the 14th distinct location pops the bronze.","s":[9]}]},
+  {"id":19,"name":"Earn Cash, Not Kudos","description":"Win 20 different races.","grade":"bronze","hidden":false,"kind":"activities","missable":false,"count":20,"minutes":600,"conf":"A","guide":"Win 20 different races; repeat wins on one course do not advance it, so tour the map's race markers and win each once.","steps":[{"t":"Pick any race marker and win it once, cleanly.","s":[1]},{"t":"Move to a new marker; the counter needs different races.","s":[2,11]},{"t":"Bring a tuned vehicle for the car classes you struggle with.","s":[4]},{"t":"Use the YOUR COUNT counter to track distinct wins to 20.","s":[1]},{"t":"Boat and air races count the same as street races.","s":[2]},{"t":"Avoid restarts that void the win at the results screen.","s":[1]},{"t":"The 20th distinct race win pops the bronze.","s":[9]}]},
+  {"id":20,"name":"Baited My Tackle","description":"Beat Cal in a fishing challenge.","grade":"bronze","hidden":false,"kind":"activities","missable":false,"minutes":60,"conf":"B","guide":"Beat Cal in his fishing challenge; accept it at his spot, then land the heavier scoring catch inside the challenge window.","steps":[{"t":"Find Cal at his fishing spot and accept the challenge.","s":[1]},{"t":"Cast toward the marked water where the challenge fish run.","s":[2]},{"t":"Work the reel prompts steadily; snapped lines score nothing.","s":[4]},{"t":"Keep every legal catch; the challenge scores total weight.","s":[1]},{"t":"Save your best cast for the final minute of the window.","s":[2]},{"t":"Weigh in ahead of Cal when the timer ends.","s":[1]},{"t":"Beating his total pops the bronze at the weigh-in.","s":[9]}]},
+  {"id":21,"name":"Stick Fiddler","description":"Complete an arcade game.","grade":"bronze","hidden":false,"kind":"activities","missable":false,"minutes":30,"conf":"B","guide":"Complete one full arcade game on any cabinet; finishing the cabinet's game, not a high score, is what the trophy asks.","steps":[{"t":"Walk up to any arcade cabinet and start its game.","s":[1]},{"t":"Play to the game's own end screen, win or lose.","s":[2,11]},{"t":"Do not walk away mid-game; quitting voids completion.","s":[4]},{"t":"Use continues if the cabinet offers them.","s":[1]},{"t":"Let the results screen show before leaving the cabinet.","s":[2]},{"t":"Try a second cabinet only if the first never ends.","s":[11]},{"t":"Completion of one full game pops the bronze.","s":[9]}]},
+  {"id":22,"name":"Road to Rehabilitation","description":"Complete the final mission for Andy.","grade":"bronze","hidden":true,"kind":"story","missable":false,"minutes":300,"conf":"A","guide":"Finish Andy's whole mission strand, ending with his final mission; the strand giver returns after the story, so this is watch-listed, never missable.","steps":[{"t":"Take Andy's first job when his marker appears.","s":[1]},{"t":"Work each follow-up as Andy texts or marks them.","s":[2]},{"t":"Keep his vehicle and cargo intact on delivery legs.","s":[4]},{"t":"Start his strands early; one report claims story windows.","s":[5,1]},{"t":"If his marker vanishes mid-story, it returns after the credits.","s":[1]},{"t":"Accept his final mission when the strand tops out.","s":[1]},{"t":"Completing that final mission pops the bronze.","s":[9]}]},
+  {"id":23,"name":"This Was No Boat Accident","description":"Complete the final mission for Kenton.","grade":"bronze","hidden":true,"kind":"story","missable":false,"minutes":300,"conf":"A","guide":"Finish Kenton's diving strand to its final mission; Kenton pauses after Chapter 1 and returns in Chapters 2-3, a pause, not a lock.","steps":[{"t":"Meet Kenton in Chapter 1 and take his first dive job.","s":[1,13]},{"t":"Do not panic when his marker pauses after Chapter 1.","s":[13]},{"t":"Resume his strand when he returns in Chapters 2-3.","s":[1]},{"t":"Complete each dive to his stated depth and back.","s":[4]},{"t":"Bank the underwater discoveries his dives reveal.","s":[2]},{"t":"Take his final mission when the strand completes.","s":[1]},{"t":"Finishing it pops the bronze; the title is a Jaws nod.","s":[9]}]},
+  {"id":24,"name":"The Lone Rider","description":"Complete the final mission for Billy.","grade":"bronze","hidden":true,"kind":"story","missable":false,"minutes":300,"conf":"B","guide":"Finish Billy's strand through his final mission; ride his routes as given and the strand stays available after the story ends.","steps":[{"t":"Accept Billy's first ride when his marker appears.","s":[1]},{"t":"Stay on his marked routes; shortcuts can void his legs.","s":[2]},{"t":"Complete each follow-up ride as he offers them.","s":[4]},{"t":"Start the strand when it unlocks, to be safe on windows.","s":[5,1]},{"t":"Return after the story if any leg is still open.","s":[1]},{"t":"Take Billy's final mission at the strand's end.","s":[1]},{"t":"Completing it pops The Lone Rider bronze.","s":[9]}]},
+  {"id":25,"name":"Strangers & Freaks","description":"Complete 8 mission strands for strangers across the state of Leonida.","grade":"silver","hidden":true,"kind":"story","missable":false,"count":8,"minutes":900,"conf":"A","guide":"Complete 8 full stranger mission strands anywhere in Leonida; a strand counts only when its final mission is done, not when it is started.","steps":[{"t":"Open every stranger marker you pass; started strands stay tracked.","s":[1]},{"t":"Finish strands one at a time so finales are not confused.","s":[2]},{"t":"Count only completed strands in YOUR COUNT, up to 8.","s":[4]},{"t":"The named character lines each count as one strand.","s":[1]},{"t":"One secondary report claims windows; the fuller guide disagrees.","s":[5,1]},{"t":"Post-story, all givers return, so leftovers can be mopped up.","s":[1]},{"t":"The eighth completed strand pops the silver.","s":[9]}]},
+  {"id":26,"name":"Supply & Demand","description":"Complete the final mission for Randy.","grade":"bronze","hidden":true,"kind":"story","missable":false,"minutes":300,"conf":"B","guide":"Finish Randy's supply strand to its final mission; keep his deliveries intact and his strand, like the others, resumes after the story.","steps":[{"t":"Take Randy's first supply job at his marker.","s":[1]},{"t":"Deliver each load without losing the cargo vehicle.","s":[2]},{"t":"Follow his follow-ups as the strand escalates.","s":[4]},{"t":"Begin the strand early in case of any story window.","s":[5,1]},{"t":"Use post-story free roam to finish any open leg.","s":[1]},{"t":"Accept Randy's final mission when offered.","s":[1]},{"t":"Completing it pops the Supply & Demand bronze.","s":[9]}]},
+  {"id":27,"name":"Spin On This!","description":"Complete the final mission for Tyrone.","grade":"bronze","hidden":true,"kind":"story","missable":false,"minutes":300,"conf":"B","guide":"Finish Tyrone's strand through his final mission; his jobs lean on driving, so bring a car you handle well.","steps":[{"t":"Start Tyrone's strand when his marker appears.","s":[1]},{"t":"Complete his driving jobs inside his stated conditions.","s":[2]},{"t":"Keep the objective car repairable; totalled cars fail legs.","s":[4]},{"t":"Open the strand on unlock, hedging the window dispute.","s":[5,1]},{"t":"Finish leftover legs after the credits if needed.","s":[1]},{"t":"Take Tyrone's final mission at the strand's end.","s":[1]},{"t":"Completing it pops the Spin On This! bronze.","s":[9]}]},
+  {"id":28,"name":"Positive Mental Attitude","description":"Meditate at every spot across Leonida.","grade":"bronze","hidden":false,"kind":"missable","missable":true,"count":18,"minutes":240,"conf":"A","guide":"Meditate at all 18 spots across Leonida, starting with the Chapter 1 balcony meditation at Jason's house, the one spot that may close when Chapter 1 ends — the run's one possible missable.","steps":[{"t":"After Down to Earth, meditate on Jason's house balcony in Chapter 1.","s":[1,4]},{"t":"Do it before finishing Chapter 1; sources disagree it can wait.","s":[1,13]},{"t":"Log each spot in YOUR COUNT as you clear it: 18 in total.","s":[2]},{"t":"Sweep beach and Keys spots during the mid-story chapters.","s":[4]},{"t":"The final spot needs duo play unlocked by Coffee Break.","s":[1]},{"t":"For the 100% checklist only 15 of 18 are required; the trophy wants 18.","s":[1,4]},{"t":"The 18th meditation pops the bronze.","s":[9]}]},
+  {"id":29,"name":"Fair Game","description":"Hunt a unique animal for Bret.","grade":"bronze","hidden":true,"kind":"activities","missable":false,"minutes":120,"conf":"B","guide":"Hunt the one unique animal Bret sends you after; take his briefing, track the animal in its stated ground, and bring the proof back to him.","steps":[{"t":"Take Bret's hunting briefing when his marker appears.","s":[1]},{"t":"Travel to the ground Bret names for the unique animal.","s":[2]},{"t":"Track prints and calls rather than rushing the area.","s":[4]},{"t":"Take the animal cleanly when it finally shows.","s":[1]},{"t":"Collect the proof the hunt asks you to carry back.","s":[2]},{"t":"Return to Bret and hand the hunt in.","s":[1]},{"t":"Handing it in pops the Fair Game bronze.","s":[9]}]},
+  {"id":30,"name":"Don't Touch My Deck","description":"Complete 3 Collectible Card sets.","grade":"silver","hidden":false,"kind":"collectibles","missable":false,"count":3,"minutes":900,"conf":"A","guide":"Complete 3 full collectible card sets from Bret's decks; a set counts only when every card in it is found, so finish decks rather than scattering pickups.","steps":[{"t":"Pick one deck and commit to finishing that set first.","s":[1,2]},{"t":"Sweep each card's area slowly; cards sit off the main paths.","s":[4]},{"t":"Log set progress in YOUR COUNT: complete sets, to 3.","s":[6]},{"t":"Use Bret's lines; his hunts pass several card spots.","s":[1]},{"t":"Finish set one before opening a second deck's hunt.","s":[2]},{"t":"Complete a second and third set the same way.","s":[6]},{"t":"The third completed set pops the silver.","s":[9]}]},
+  {"id":31,"name":"You WAiNKer!","description":"WAiNK It at 100 locations.","grade":"silver","hidden":false,"kind":"collectibles","missable":false,"count":100,"minutes":800,"conf":"B","guide":"Use the WAiNK It interaction at 100 distinct locations; repeat uses at one spot do not count, so work it into every new area you enter.","steps":[{"t":"Use WAiNK It at the first location that offers the prompt.","s":[1,11]},{"t":"Make it a habit: one use in every new shop and viewpoint.","s":[2]},{"t":"Track distinct locations in YOUR COUNT toward 100.","s":[4]},{"t":"The Keys and beach towns hold dense clusters of spots.","s":[6]},{"t":"Revisiting a counted location adds nothing; move on.","s":[11]},{"t":"Sweep missed districts in post-story free roam.","s":[1]},{"t":"The 100th distinct location pops the silver.","s":[9]}]},
+  {"id":32,"name":"One Last Thing","description":"Complete 50 Challenges.","grade":"bronze","hidden":false,"kind":"activities","missable":false,"count":50,"minutes":700,"conf":"A","guide":"Complete 50 challenges of any mix; the 100% checklist only needs 70 of 80, so this trophy's 50 arrives naturally on a completion run.","steps":[{"t":"Open the challenges list and pin the shortest ones first.","s":[1]},{"t":"Clear driving and shooting challenges between missions.","s":[2]},{"t":"Log completions in YOUR COUNT as you go to 50.","s":[4]},{"t":"Timed hourglass side missions can expire; trophies do not need them.","s":[13]},{"t":"Leave the longest grind challenges for post-story.","s":[1]},{"t":"Mix types; no category quota hides inside the 50.","s":[6]},{"t":"The 50th completed challenge pops the bronze.","s":[9]}]},
+  {"id":33,"name":"Hot Together","description":"Lose a 4 star Wanted Level with your partner and escape the heat.","grade":"bronze","hidden":false,"kind":"activities","missable":false,"minutes":30,"conf":"A","guide":"With your partner beside you, raise a 4-star wanted level, then lose it completely and escape; duo play from Coffee Break onwards is the window.","steps":[{"t":"Wait until duo play is unlocked in Chapter 2.","s":[1]},{"t":"Commit crimes together until the level reaches 4 stars.","s":[1,2]},{"t":"Stay together; splitting the pair can void the attempt.","s":[4]},{"t":"Break line of sight and hide until the stars drain.","s":[1]},{"t":"Do not enter a safehouse while the search is active.","s":[2]},{"t":"Let the wanted level clear fully with both partners free.","s":[1]},{"t":"The bronze pops the moment the heat is fully lost.","s":[9]}]},
+  {"id":34,"name":"Retail Therapy","description":"Rob 3 shops back-to-back with your partner without losing your Wanted Level.","grade":"bronze","hidden":false,"kind":"activities","missable":false,"count":3,"minutes":40,"conf":"A","guide":"Rob 3 shops in a row with your partner while keeping a wanted level the whole chain; plan three close shops before the first till.","steps":[{"t":"Pick a district with three shops in short driving range.","s":[1]},{"t":"Enter shop one together and rob it with your partner present.","s":[1,2]},{"t":"Drive straight to shop two without letting the stars drop.","s":[4]},{"t":"Rob shop two and keep the chain's wanted level alive.","s":[1]},{"t":"Repeat at shop three immediately, partner still with you.","s":[2]},{"t":"Only after the third till, escape and lose the heat.","s":[1]},{"t":"The bronze pops once the third robbery registers.","s":[9]}]},
+  {"id":35,"name":"Whip It Good","description":"Discover 100 vehicles.","grade":"bronze","hidden":false,"kind":"collectibles","missable":false,"count":100,"minutes":500,"conf":"A","guide":"Discover 100 distinct vehicles by entering or scanning them as they appear in traffic; variety by district and time of day drives this counter.","steps":[{"t":"Enter every new model you see parked or in traffic.","s":[1]},{"t":"Rotate districts; each area spawns a different vehicle pool.","s":[2,11]},{"t":"Log discoveries in YOUR COUNT toward 100.","s":[4]},{"t":"Story missions introduce several models early; use them.","s":[1]},{"t":"Check beaches, marinas and the airport for rare spawns.","s":[6]},{"t":"Night traffic differs from day traffic; sweep both.","s":[11]},{"t":"The 100th distinct vehicle discovered pops the bronze.","s":[9]}]},
+  {"id":36,"name":"Gunslinger","description":"Take down 5 enemies in a single use of Combat Focus.","grade":"bronze","hidden":false,"kind":"activities","missable":false,"count":5,"minutes":45,"conf":"B","guide":"Drop 5 enemies inside one Combat Focus activation; set it up in a crowded set piece where five targets stand close before you trigger it.","steps":[{"t":"Save this attempt for a mission with grouped enemies.","s":[1]},{"t":"Let at least five enemies gather in one sightline.","s":[4]},{"t":"Top up health and armour before you commit.","s":[1]},{"t":"Trigger Combat Focus once the group is set.","s":[1,2]},{"t":"Work targets nearest-first so none leave the zone.","s":[4]},{"t":"All five must fall before the Focus window ends.","s":[2]},{"t":"The fifth takedown in one use pops the bronze.","s":[9]}]},
+  {"id":37,"name":"Catch Me If You Can","description":"Make an unscheduled departure at VCIA.","grade":"bronze","hidden":true,"kind":"activities","missable":false,"minutes":30,"conf":"B","guide":"At VCIA, take an unscheduled departure: get airborne in a plane outside any mission or scheduled flight and leave the airport your own way.","steps":[{"t":"Travel to VCIA in free roam, outside any mission.","s":[1]},{"t":"Reach the airfield side where planes sit parked.","s":[2]},{"t":"Board a plane you were never scheduled to fly.","s":[4]},{"t":"Taxi out and take off before security closes in.","s":[1]},{"t":"Clear the airport boundary while airborne.","s":[2]},{"t":"Stay airborne until the departure fully registers.","s":[1]},{"t":"The bronze pops once the unscheduled departure counts.","s":[9]}]},
+  {"id":38,"name":"Challenging Tank","description":"Kinda hot in these Rhinos.","grade":"bronze","hidden":true,"kind":"activities","missable":false,"minutes":45,"conf":"C","guide":"Survive the Rhinos: when the tanks roll in at high heat, endure the encounter the description jokes about — sources are thin here, so treat the exact trigger as unconfirmed and experiment at maximum wanted level.","steps":[{"t":"Raise your wanted level until military Rhinos deploy.","s":[1]},{"t":"Stay in the open where the tanks can engage you.","s":[8]},{"t":"Keep moving between cover; a parked car is a target.","s":[4]},{"t":"Survive the first full Rhino volley without dying.","s":[2]},{"t":"Disable or evade the lead tank if the fight drags.","s":[8]},{"t":"Escape only after the encounter has clearly registered.","s":[1]},{"t":"Unconfirmed trigger: if nothing pops, retry at higher heat.","s":[5,8]}]},
+  {"id":39,"name":"Sneakthief","description":"Rob a jewelry store without being detected.","grade":"bronze","hidden":false,"kind":"activities","missable":false,"minutes":35,"conf":"A","guide":"Rob a jewelry store with zero detection: enter quietly, clear the cases without an alarm or a witness call, and walk out before anyone knows.","steps":[{"t":"Pick a jewelry store and watch its door traffic first.","s":[1]},{"t":"Enter without brandishing a weapon in view.","s":[1,2]},{"t":"Deal with the clerk quietly before touching the cases.","s":[4]},{"t":"Empty the cases fast; lingering raises detection risk.","s":[1]},{"t":"Never let a witness finish a call to the police.","s":[2]},{"t":"Leave on foot through the door you entered by.","s":[1]},{"t":"A clean, undetected exit pops the Sneakthief bronze.","s":[9]}]},
+  {"id":40,"name":"Maximum Withdrawal","description":"Rob 5 Bank Vaults and escape.","grade":"silver","hidden":false,"kind":"activities","missable":false,"count":5,"minutes":300,"conf":"A","guide":"Rob 5 bank vaults and escape each time; vaults unlock through the cafe mission line in the story, and each vault must end in a clean escape to count.","steps":[{"t":"Unlock bank vaults through the cafe mission first.","s":[1,2]},{"t":"Rob vault one and escape until the heat fully clears.","s":[1]},{"t":"Log each escaped vault in YOUR COUNT, up to 5.","s":[4]},{"t":"Vary districts; repeat vaults still count if they reset.","s":[6]},{"t":"Bring your partner; vault crews move faster in pairs.","s":[1]},{"t":"Never end a run inside the vault's search zone.","s":[2]},{"t":"The fifth escaped vault robbery pops the silver.","s":[9]}]},
+  {"id":41,"name":"A Classic Blitz Play","description":"Rob an Armored Truck and escape.","grade":"bronze","hidden":false,"kind":"activities","missable":false,"minutes":40,"conf":"A","guide":"Rob one armoured truck and escape: stop it, crack the rear doors, take the cash and lose the heat that follows.","steps":[{"t":"Find an armoured truck on its patrol route in free roam.","s":[1]},{"t":"Block it in a low-traffic street before engaging.","s":[2]},{"t":"Force the rear doors open once the guards are down.","s":[4]},{"t":"Take the cash quickly; the wanted level is already rising.","s":[1]},{"t":"Switch vehicles once to break the search pattern.","s":[2]},{"t":"Hide until the wanted level fully clears.","s":[1]},{"t":"A completed escape with the cash pops the bronze.","s":[9]}]},
+  {"id":42,"name":"The Goodtime State","description":"Explore all of Leonida.","grade":"bronze","hidden":false,"kind":"collectibles","missable":false,"count":52,"minutes":800,"conf":"A","guide":"Explore all 52 named areas of Leonida; the map greys lift area by area, so sweep the Keys, the coast and the interior systematically.","steps":[{"t":"Open the map and note which districts are still greyed.","s":[1]},{"t":"Drive each greyed district until its name registers.","s":[2,11]},{"t":"Log areas in YOUR COUNT: 52 across the whole state.","s":[4]},{"t":"The Leonida Keys need a boat or the causeway run.","s":[1]},{"t":"Interior wetlands hide two easily missed areas.","s":[6]},{"t":"Finish the sweep in post-story free roam if needed.","s":[1]},{"t":"Registering the 52nd area pops the bronze.","s":[9]}]},
+  {"id":43,"name":"Pest Control","description":"Rob an Illegal Operation belonging to each gang.","grade":"bronze","hidden":false,"kind":"activities","missable":false,"count":9,"minutes":500,"conf":"A","guide":"Rob one illegal operation belonging to each of the 9 gangs; one robbery per gang colours its territory on this counter, repeats on one gang add nothing.","steps":[{"t":"Find an illegal operation marker in gang territory.","s":[1]},{"t":"Rob it and escape so the robbery fully registers.","s":[1,2]},{"t":"Log the gang in YOUR COUNT: 9 gangs, one hit each.","s":[6]},{"t":"Move territory by territory across the whole map.","s":[4]},{"t":"Story progress opens several gangs' operations.","s":[1]},{"t":"Check the map legend to see which gangs remain.","s":[2]},{"t":"The ninth gang's robbed operation pops the bronze.","s":[9]}]},
+  {"id":44,"name":"In The Beginning…","description":"Enjoy a cocktail with a view on Ocean Beach.","grade":"bronze","hidden":true,"kind":"activities","missable":false,"minutes":15,"conf":"B","guide":"Have a cocktail with a view on Ocean Beach: order the drink at the beachfront spot and take in the view the description asks for — a quiet nod to an older opening.","steps":[{"t":"Travel to Ocean Beach in free roam, on foot at the end.","s":[1]},{"t":"Find the beachfront bar that serves cocktails.","s":[2]},{"t":"Order a cocktail at the bar prompt.","s":[4]},{"t":"Carry it to the open view over the beach.","s":[1]},{"t":"Let the drink-and-view moment play fully out.","s":[2]},{"t":"Do not sprint away; leaving early can void it.","s":[11]},{"t":"The bronze pops as the moment completes.","s":[9]}]},
+  {"id":45,"name":"Capital Offense","description":"Smash your way out of a vehicle showroom in classic style.","grade":"bronze","hidden":true,"kind":"activities","missable":false,"minutes":20,"conf":"B","guide":"Smash out of a vehicle showroom through its glass in a car, in classic style: get inside with a vehicle and leave through the window, not the door.","steps":[{"t":"Find a vehicle showroom with a street-facing glass front.","s":[1]},{"t":"Get a car inside the showroom floor area.","s":[2]},{"t":"Line up facing the main glass, not a side wall.","s":[4]},{"t":"Accelerate straight through the glass in one run.","s":[1]},{"t":"Land on the street and keep driving clear.","s":[2]},{"t":"A door exit does not count; it must be the smash.","s":[11]},{"t":"The bronze pops as you clear the showroom glass.","s":[9]}]},
+  {"id":46,"name":"Let’s Go Bowling","description":"Follow-through at the Kolt & Associates' bowling alley.","grade":"bronze","hidden":true,"kind":"activities","missable":false,"minutes":25,"conf":"B","guide":"Bowl a follow-through at the Kolt & Associates alley: play at that named alley and finish your throw with the follow-through the description wants.","steps":[{"t":"Travel to the Kolt & Associates bowling alley.","s":[1]},{"t":"Start a game at that alley, not any other lane.","s":[2]},{"t":"Take your throw with a full follow-through motion.","s":[4]},{"t":"Let the pins and scoring resolve completely.","s":[1]},{"t":"Finish the frame rather than quitting mid-game.","s":[2]},{"t":"The named alley matters; other alleys do not count.","s":[11]},{"t":"The bronze pops when the follow-through registers.","s":[9]}]},
+  {"id":47,"name":"Personal Best","description":"A partnership with mass appeal.","grade":"bronze","hidden":true,"kind":"activities","missable":false,"minutes":30,"conf":"C","guide":"A deliberately vague one: a partnership moment with mass appeal. Sources are thin and disagree, so treat this as unconfirmed — try it with your partner in a crowded public spot and log what works.","steps":[{"t":"Unlock duo play first; this is a partner trophy.","s":[1]},{"t":"Take your partner somewhere crowded and public.","s":[5]},{"t":"Try partner interactions where a crowd can gather.","s":[8]},{"t":"Repeat at a second venue if the first draws no crowd.","s":[5,8]},{"t":"Keep both partners present for the whole moment.","s":[4]},{"t":"Note the exact trigger in your save notes for the run.","s":[1]},{"t":"Unconfirmed: if it pops, it pops at the moment itself.","s":[5]}]},
+  {"id":48,"name":"Actions Speak Louder","description":"Choices made (for better or worse).","grade":"bronze","hidden":false,"kind":"activities","missable":false,"count":500,"minutes":600,"conf":"B","guide":"Make choices across the run; PSN tracks this counter to 500, so ordinary play — dialogue picks, mission calls, free-roam decisions — fills most of it without a farm.","steps":[{"t":"Answer dialogue and mission choices whenever offered.","s":[1]},{"t":"Do not skip choice prompts; each one feeds the counter.","s":[11]},{"t":"Watch the PSN counter climb toward 500 as you play.","s":[2]},{"t":"Story choices alone will not reach 500; side content helps.","s":[4]},{"t":"Stranger and character strands are dense with choices.","s":[1]},{"t":"Log progress in YOUR COUNT if you track it manually.","s":[6]},{"t":"The 500th tracked choice pops the bronze.","s":[9]}]},
+  {"id":49,"name":"Bad Luck, I Guess","description":"Second time's the charm.","grade":"bronze","hidden":true,"kind":"activities","missable":false,"minutes":20,"conf":"C","guide":"Succeed on a second try: fail a repeatable attempt once, then pass the same attempt straight after. Sources disagree on which attempts qualify, so use a clean, quick challenge.","steps":[{"t":"Pick a short repeatable challenge you can fail safely.","s":[5]},{"t":"Fail the first attempt deliberately and completely.","s":[8]},{"t":"Restart the same attempt immediately, no detours.","s":[5,8]},{"t":"Pass it cleanly on this second try.","s":[4]},{"t":"Do not switch challenges between the fail and the pass.","s":[8]},{"t":"If nothing pops, try a race restart the same way.","s":[5]},{"t":"Unconfirmed scope: the pop lands at the second-try win.","s":[9]}]},
+  {"id":50,"name":"The Truth Is Out There","description":"What the hell just happened?","grade":"bronze","hidden":true,"kind":"activities","missable":false,"minutes":60,"conf":"C","guide":"Witness something strange: Leonida's UFO moment. Coverage is thin and playful, so treat sightings as unconfirmed — be out in the wilds at night and watch the sky.","steps":[{"t":"Head into the interior wilds after dark in free roam.","s":[5]},{"t":"Pick a clear night away from city light.","s":[8]},{"t":"Watch the sky rather than the road for a few minutes.","s":[5,8]},{"t":"Move toward any light that does not behave like a plane.","s":[4]},{"t":"Stay until the event resolves, do not drive off early.","s":[8]},{"t":"Repeat on another night if the first stays quiet.","s":[5]},{"t":"Unconfirmed: the bronze pops at the sighting itself.","s":[9]}]},
+  {"id":51,"name":"Ten Pin","description":"Bowl 'em over with a melee drive-by.","grade":"bronze","hidden":true,"kind":"activities","missable":false,"minutes":20,"conf":"B","guide":"Knock a pedestrian down with a melee drive-by: swing a melee weapon from a moving vehicle and connect with someone on foot, bowling-style.","steps":[{"t":"Equip a melee weapon you can swing from a vehicle.","s":[1]},{"t":"Ride or drive slowly past a pedestrian on the kerb.","s":[2]},{"t":"Time the swing as you pass, not before or after.","s":[4]},{"t":"The hit must connect while the vehicle is moving.","s":[1]},{"t":"A parked-vehicle swing does not count as a drive-by.","s":[11]},{"t":"Keep speed low; too fast and the swing whiffs.","s":[2]},{"t":"The bronze pops on the connecting drive-by hit.","s":[9]}]},
+  {"id":52,"name":"Dime on the Dollar","description":"Earn $250,000 laundering Marked Bills through your contacts.","grade":"bronze","hidden":false,"kind":"activities","missable":false,"count":250000,"minutes":700,"conf":"A","guide":"Launder $250,000 of marked bills through your contacts; feed every marked-bill payout into the laundering route instead of spending it raw.","steps":[{"t":"Unlock contacts who launder marked bills in the story.","s":[1]},{"t":"Take jobs that pay in marked bills when offered.","s":[2,6]},{"t":"Route each payout through a contact the same session.","s":[1]},{"t":"Log the laundered total in YOUR COUNT to $250,000.","s":[4]},{"t":"Heist payouts are the largest marked-bill sources.","s":[6]},{"t":"Never spend marked bills raw; they must be laundered.","s":[1]},{"t":"The bronze pops when $250,000 has been laundered.","s":[9]}]},
+  {"id":53,"name":"Treat Yo Self","description":"Spend $100,000 across all shops.","grade":"bronze","hidden":false,"kind":"activities","missable":false,"count":100000,"minutes":300,"conf":"A","guide":"Spend $100,000 across all shops combined; vehicles, clothes, weapons and services all count, so a normal completion run crosses this without trying.","steps":[{"t":"Buy weapons, armour and ammo from shops as you play.","s":[1]},{"t":"Spend on vehicles and garages; big tickets move it fast.","s":[2]},{"t":"Log cumulative spending in YOUR COUNT to $100,000.","s":[4]},{"t":"Clothing and barber visits count toward the total.","s":[11]},{"t":"Do not hoard cash early; spending is progress here.","s":[1]},{"t":"Late-game property and car buys finish the total easily.","s":[6]},{"t":"The bronze pops at $100,000 spent across shops.","s":[9]}]},
+  {"id":54,"name":"Little Boxes","description":"Purchase all garage properties.","grade":"bronze","hidden":false,"kind":"collectibles","missable":false,"count":8,"minutes":240,"conf":"A","guide":"Buy all 8 garage properties on the map; save cash across the mid-game and sweep the property markers once your income from heists lands.","steps":[{"t":"Open the map's property layer and note all 8 garages.","s":[1,3]},{"t":"Bank heist income instead of spending it all early.","s":[2]},{"t":"Buy the cheapest garage first to start the count.","s":[4]},{"t":"Log purchases in YOUR COUNT: 8 garages in total.","s":[1]},{"t":"Some garages only list after story progress; revisit later.","s":[3]},{"t":"Sweep the last listings in post-story free roam.","s":[1]},{"t":"Buying the eighth garage pops the bronze.","s":[9]}]},
+  {"id":55,"name":"On the Spot","description":"Register 10 vehicles to the Scooter Bros app.","grade":"bronze","hidden":false,"kind":"collectibles","missable":false,"count":10,"minutes":120,"conf":"A","guide":"Register 10 vehicles to the Scooter Bros app: park eligible vehicles, open the app and register each one; duplicates of the same vehicle do not advance it.","steps":[{"t":"Open the Scooter Bros app once it unlocks in Chapter 2.","s":[1]},{"t":"Register the first eligible vehicle you park up.","s":[2]},{"t":"Find a different vehicle for each new registration.","s":[4]},{"t":"Log registrations in YOUR COUNT toward 10.","s":[1,11]},{"t":"Story vehicles can be registered when you hold them.","s":[2]},{"t":"Avoid re-registering a model already on the app.","s":[11]},{"t":"The tenth registered vehicle pops the bronze.","s":[9]}]}
  ]
 }

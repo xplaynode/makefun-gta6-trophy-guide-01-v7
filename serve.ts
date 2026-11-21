@@ -7,6 +7,7 @@ import { createServer } from 'node:http';
 import { extname, join, normalize, resolve, sep } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
+// Leonida Night Ledger v7: serve the ledger locally while building and screenshotting it.
 const root = resolve(fileURLToPath(new URL('./app', import.meta.url)));
 const args = process.argv.slice(2);
 const portIndex = args.indexOf('--port');

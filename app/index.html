@@ -3,23 +3,59 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>GTA VI trophy checklist</title>
+<title>Leonida Night Ledger v7 — GTA VI Trophy Guide &amp; Tracker</title>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<header>
-  <h1>GTA VI trophy checklist</h1>
-  <p id="progress">0 of 55 earned</p>
+<header id="topbar">
+  <div class="brand">
+    <div class="brand-mark">LNL</div>
+    <div>
+      <h1>Leonida Night Ledger <span class="vtag">v7</span></h1>
+      <p class="tagline">GTA VI trophy guide &amp; tracker — every guide cited, every count honest.</p>
+    </div>
+  </div>
+  <div id="audit-strip" class="audit" aria-label="Audit strip"></div>
+  <div id="prov-strip" class="audit prov" aria-label="Provenance line"></div>
+  <nav id="viewnav">
+    <button data-view="guide" class="navbtn active" type="button">Guide</button>
+    <button data-view="roadmap" class="navbtn" type="button">Roadmap</button>
+    <button data-view="missables" class="navbtn" type="button">Missables</button>
+    <button data-view="sources" class="navbtn" type="button">Sources &amp; Save</button>
+  </nav>
 </header>
-<div class="controls">
-  <label>Grade <select id="grade"><option value="all">All</option><option value="platinum">Platinum</option><option value="gold">Gold</option><option value="silver">Silver</option><option value="bronze">Bronze</option></select></label>
-  <button id="export" type="button">Export progress</button>
-  <label class="import">Import progress <input id="import" type="file" accept="application/json"></label>
-</div>
-<table>
-  <thead><tr><th>Earned</th><th>Trophy</th><th>Grade</th><th>How to get it</th></tr></thead>
-  <tbody id="rows"></tbody>
-</table>
-<script type="module" src="app.js"></script>
+
+<main id="view-guide" class="view">
+  <section class="pane listpane">
+    <div class="filters">
+      <input id="search" type="search" placeholder="Search trophies…">
+      <select id="f-kind"><option value="">All kinds</option><option>story</option><option>missable</option><option>collectibles</option><option>activities</option><option>online</option></select>
+      <select id="f-grade"><option value="">All grades</option><option>platinum</option><option>gold</option><option>silver</option><option>bronze</option></select>
+      <select id="f-status"><option value="">Any status</option><option value="done">Earned</option><option value="todo">Not earned</option></select>
+      <label class="spoiler"><input type="checkbox" id="spoiler"> Spoiler shield — hide hidden story trophies until earned</label>
+      <div class="progressline"><span id="progress-text">0 / 55 earned</span><div class="bar"><div id="progress-bar"></div></div></div>
+      <div class="savebtns"><button id="export-btn" type="button">Export save</button><label class="importlab">Import save<input type="file" id="import-file" accept=".json" hidden></label></div>
+      <p id="save-receipt" class="receipt"></p>
+    </div>
+    <ul id="trophy-list"></ul>
+  </section>
+  <section class="pane guidepane" id="guide-pane"><p class="hint">Pick a trophy from the ledger to open its cited guide.</p></section>
+  <aside class="pane railpane">
+    <h2>Next up</h2>
+    <ol id="next-up"></ol>
+    <h2>Missable watch</h2>
+    <ul id="watch-rail"></ul>
+    <h2>Per-guide sources</h2>
+    <ul id="rail-sources"></ul>
+  </aside>
+</main>
+
+<main id="view-roadmap" class="view hidden"></main>
+<main id="view-missables" class="view hidden"></main>
+<main id="view-sources" class="view hidden"></main>
+
+<footer><p>Offline guide — no network requests, no Rockstar artwork; the night-ledger look is our own. Guide wording is original to this entry; facts are cited, never copied.</p></footer>
+<script src="app.js"></script>
+<script src="views.js"></script>
 </body>
 </html>
